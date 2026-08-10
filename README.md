@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 0xfiann, Discord @1ntxezed_ 👋</h1>
+<h1 align="center">Hi there, I'm 0xfiann, Discord @0xfiann 👋</h1>
 
 <div align="center">
 <img src="#" align="right">
